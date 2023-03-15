@@ -1,0 +1,9 @@
+packages require:
+
+numpy
+pandas
+sklearn
+xgboost
+
+command to install:
+pip install numpy pandas sklearn xgboost
